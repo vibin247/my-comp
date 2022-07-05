@@ -1,5 +1,8 @@
 {
-  "name": "my-comp",
+  "name": "@vibin247/my-comp",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/vibin247"
+  },
   "version": "1.0.0",
   "description": "",
   "scripts": {
